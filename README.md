@@ -71,7 +71,7 @@ python DICOM_Viewer.py
 3. 読み込み完了後、下部のスライダで各断面のスライス移動、およびWW/WLの調整を行う
 4. ウィンドウを閉じるとプログラムは完全に終了する
 
-![ウィンドウ画面](https://scrapbox.io/files/697c03201a380d22df573cc7.png)
+![ウィンドウ画面](https://scrapbox.io/files/697c07cd6e4528bece702b0e.png)
 
 ## 操作・表示仕様
 
