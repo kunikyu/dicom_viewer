@@ -10,7 +10,7 @@ import sys
 class MedicalImageViewer:
     def __init__(self, master):
         self.master = master
-        self.master.title("Advanced DICOM Viewer - Robust Windowing")
+        self.master.title("DICOM Viewer")
         self.master.protocol("WM_DELETE_WINDOW", self.on_closing)
         
         self.volume = None
